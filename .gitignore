@@ -1,0 +1,6 @@
+*#
+*.bak
+*.pyc
+*.sw[op]
+*~
+__pycache__
